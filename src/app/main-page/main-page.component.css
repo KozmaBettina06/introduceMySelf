@@ -1,0 +1,25 @@
+.bg-1 { 
+    background-color: coral; 
+    color: #ffffff;
+  }
+  .bg-2 { 
+    background-color: darksalmon; 
+    color: #ffffff;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  .margin {
+    margin-bottom: 45px;
+  }
+  p {font-size: 18px;}
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .container{
+    max-width: 70%;
+  }
+ 
